@@ -20,7 +20,7 @@ function initPlayers () {
         preload: 'none',
         screenshot: true,
         video: {
-            url: 'https://moeplayer.b0.upaiyun.com/dplayer/hikarunara.mp4',
+            url: 'https://openload.co/embed/kXaOIpGzCvo/What.Happened.to.Monday.2017.720p.WEBRip.950MB.MkvCage.mkv.mp4',
             pic: 'https://moeplayer.b0.upaiyun.com/dplayer/hikarunara.png',
             thumbnails: 'https://moeplayer.b0.upaiyun.com/dplayer/hikarunara_thumbnails.jpg'
         },
